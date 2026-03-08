@@ -1,6 +1,6 @@
 # Hi there, I'm Junior Hoza 👋
 
-I'm a Junior Developer with a passion for building web applications and robust backend systems. I'm currently sharpening my skills in **Python** and working towards creating clean, efficient, and scalable solutions.
+I'm a Junior Developer with a passion for building web applications and robust backend systems. I'm currently sharpening my skills in **Golang** and working towards creating clean, efficient, and scalable solutions.
 
 ---
 
