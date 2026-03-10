@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/juniorhoza/juniorhoza/main/banner.png)
+![Banner](https://raw.githubusercontent.com/juniorhoza/juniorhoza/main/banner.jpeg)
 
 # Hey, I'm Junior Hoza 👋
 
