@@ -75,7 +75,7 @@ Full Stack Software Engineer who turns coffee ☕ and Stack Overflow tabs into w
 Have a project idea? Want to collaborate? Need someone to blame when the build fails? I'm your guy.
 
 - 📧 [juniorhoza56@outlook.com](mailto:juniorhoza56@outlook.com)
-- 📞 +658 156 519
+
 
 ---
 
