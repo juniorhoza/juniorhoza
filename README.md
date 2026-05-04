@@ -81,6 +81,7 @@ Have a project idea? Want to collaborate? Need someone to blame when the build f
 
 *"Works on my machine" — shipping the machine since day one.*
 
+```text
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -114,3 +115,4 @@ Have a project idea? Want to collaborate? Need someone to blame when the build f
 *************%@@@@@@@@@@@@%*:--------------:-@@@@@@@@@#++**
 **********#@@@@@@@@@@@@@@@%*:-===-----------@@@@@@@@@@%*+*#
 ********#@@@@@@@@@@@@@@@@@%#-=====---------#@@@@@@@@@@%***#
+```
